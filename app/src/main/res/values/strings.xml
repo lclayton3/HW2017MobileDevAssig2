@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ItunesSearch-claytonl</string>
+    <string name="searchBox">Type a Song to Search</string>
+    <string name="searchBok">OK</string>
+    <string name="searchBnotOk">Cancel</string>
+    <string name="default_setType">text/plain</string>
+    <string name="subjectLine">This track is good</string>
+    <string name="shareBox">Share link using</string>
+    <string name="results_mess"></string>
+    <string name="openMessage">Click the Search Icon to Look Up a Song</string>
+
+
+
+
+</resources>
